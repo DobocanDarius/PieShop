@@ -19,6 +19,3 @@ Console.WriteLine(receivedWage);
 Console.WriteLine("~Creating Employee~");
 Console.WriteLine("|-----------------|\n");
 
-Employee george = new Employee("George", "Smith", "email@email.com", 15, new DateTime(2001, 12, 16));
-
-george.DisplayEmployeeDetails();
